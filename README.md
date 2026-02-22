@@ -1,3 +1,49 @@
+Instructions for Students / הנחיות לתלמידים
+1. Code & Test / כתיבת הקוד ובדיקה
+Do not write your code directly on GitHub. First, make sure it works in a "Sandbox":
+אל תכתבו את הקוד ישירות בגיטהאב. ראשית, וודאו שהוא עובד ב"ארגז חול":
+
+Step 1: Open the Online Python Compiler.
+
+שלב 1: פתחו את הקומפיילר המקוון לפייתון.
+
+Step 2: Write your code and click Run. Make sure it prints hello world.
+
+שלב 2: כתבו את הקוד ולחצו על Run. וודאו שהפלט הוא hello world.
+
+2. Submit to GitHub / הגשה לגיטהאב
+Once your code is ready, follow these steps to turn it in:
+ברגע שהקוד מוכן, עקבו אחר השלבים הבאים כדי להגיש אותו:
+
+Step 3: Go to your GitHub repository and click on the file hello_world.py.
+
+שלב 3: היכנסו לרפוזיטורי (התיקייה) שלכם בגיטהאב ולחצו על הקובץ hello_world.py.
+
+Step 4: Click the Pencil Icon (Edit) at the top right.
+
+שלב 4: לחצו על סמל העיפרון (עריכה) בצד ימין למעלה.
+
+Step 5: Paste your code and click the green Commit changes... button.
+
+שלב 5: הדביקו את הקוד ולחצו על הכפתור הירוק Commit changes....
+
+Step 6: Click Commit changes one more time to save. You are done!
+
+שלב 6: לחצו שוב על Commit changes כדי לשמור. סיימתם!
+
+How to add this to your repository
+Go to your Starter Repository on GitHub.
+
+Click Add file > Create new file.
+
+Name it README.md.
+
+Paste the text above into the file.
+
+Commit changes.
+
+
+
 # 🖐️ יסודות GitHub
 
 ## 🤓 סקירת הקורס ותוצרי למידה
